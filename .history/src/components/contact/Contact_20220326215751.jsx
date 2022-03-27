@@ -1,0 +1,13 @@
+import React from "react";
+import "./contact.css";
+const Contact = () => {
+  return (
+    <section id="contact">
+      <h5>Get in Touch</h5>
+      <h2>Contact Me</h2>
+      .container.c
+    </section>
+  );
+};
+
+export default Contact;
